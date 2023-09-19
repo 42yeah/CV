@@ -1,0 +1,121 @@
+@font-face {
+    font-family: "Source Hans Serif";
+    src: url("/fonts/SourceHanSerifSC-Regular.otf") format("truetype");
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Source Hans Serif";
+    src: url("/fonts/SourceHanSerifSC-Light.otf") format("truetype");
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Source Hans Serif";
+    src: url("/fonts/SourceHanSerifSC-Medium.otf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Source Hans Serif";
+    src: url("/fonts/SourceHanSerifSC-Heavy.otf") format("truetype");
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Source Hans Serif";
+    src: url("/fonts/SourceHanSerifSC-SemiBold.otf") format("truetype");
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Source Hans Serif";
+    src: url("/fonts/SourceHanSerifSC-Bold.otf") format("truetype");
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Source Hans Serif";
+    src: url("/fonts/SourceHanSerifSC-ExtraLight.otf") format("truetype");
+    font-weight: 100;
+    font-style: normal;
+}
+
+
+
+
+
+@font-face {
+    font-family: "Source Hans Sans";
+    src: url("/fonts/SourceHanSansSN-Regular.otf") format("truetype");
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Source Hans Sans";
+    src: url("/fonts/SourceHanSansCN-Light.otf") format("truetype");
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Source Hans Sans";
+    src: url("/fonts/SourceHanSansCN-Medium.otf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Source Hans Sans";
+    src: url("/fonts/SourceHanSansCN-Heavy.otf") format("truetype");
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Source Hans Sans";
+    src: url("/fonts/SourceHanSansCN-SemiBold.otf") format("truetype");
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Source Hans Sans";
+    src: url("/fonts/SourceHanSansCN-Bold.otf") format("truetype");
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Source Hans Sans";
+    src: url("/fonts/SourceHanSansCN-ExtraLight.otf") format("truetype");
+    font-weight: 100;
+    font-style: normal;
+}
+
+
+* {
+    padding: 0;
+    margin: 0;
+    line-height: 1.5em;
+    font-family: "Source Hans Serif";
+}
+
+html {
+    font-size: 13px;
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: "Source Hans Sans";
+}
+
+strong {
+    font-family: "Source Hans Sans";
+}
