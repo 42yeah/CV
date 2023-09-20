@@ -2,20 +2,21 @@
     import Padding from "../sd-pad-top.svelte";
 
     export let left = false;
+    export let right = false;
 </script>
 
-<div class="container">
+<div class="container {right ? 'right' : ''}">
     <div class="time-grid">
-        <div>2021-2022</div>
-        <div class="name"><strong>废旧动力电池镍钴锰三元正极材料再生利用关键技术研究项目</strong></div>
+        <div>2022-2023</div>
+        <div class="name"><strong>Dogshit</strong></div>
     </div>
     <Padding pad="0.25" />
     <div class="{left ? 'left' : ''}">
-        <div class="resp">负责废旧动力电池镍钴锰三元正极材料再生利用方法的设计研发。</div>
+        <div class="resp">研究锂离子电池负极集流体结构性能及电化学性能测试方法及规范。</div>
         <div class="contribs">
             <ul>
-                <li>对废旧三元正极材料进行预处理条件探究。</li>
-                <li>负责废旧三元正极材料再生工艺的条件设计及优化。</li>
+                <li>负责对集流体进行微观结构表征。</li>
+                <li>测试集流体纵向和横向拉伸长度及极片材料剥离强度。</li>
             </ul>
         </div>
     </div>
@@ -41,4 +42,7 @@
         padding-right: 0.5cm;
     }
 
+    .right {
+        padding-left: 0.5cm;
+    }
 </style>

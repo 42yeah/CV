@@ -9,6 +9,7 @@
     import Project from "./components/project.svelte";
     import TwoSep from "./components/twosep.svelte";
     import Kingswell from "./components/work/kingswell.svelte";
+    import Project3 from "./components/work/project3.svelte";
     import Starin from "./components/work/starin.svelte";
     import Education from "./components/education.svelte";
     import Awards from "./components/awards.svelte";
@@ -22,55 +23,34 @@
         <NameTag />
         <Padding pad="0.25" />
         <Tags />
-        <Padding pad="0.5" />
-        <GamerTags />
-        <Padding pad="0.5" />
-        <Intro />
         <Padding />
-        <Title>过往项目</Title>
-        <Padding pad="0.5" />
-        <ThreeSep>
-            <Project name="SHPlayground" thumbnail="/shp.jpg">
-                <ul>
-                    <li>CUDA 实现的预计算辐射传输</li>
-                    <li>用 OpenGL/ImGui 渲染</li>
-                    <li>支持读取 OpenEXR HDR 环境光图</li>
-                </ul>
-            </Project>
-            <Project name="Recon3D" thumbnail="/recon3d.png">
-                <ul>
-                    <li>自实现 SfM 恢复点云</li>
-                    <li>OpenMVS 稠密化</li>
-                    <li>Marching Cubes 网格输出</li>
-                </ul>
-            </Project>
-            <Project last name="Scotty3D" thumbnail="/scotty3d.jpeg">
-                <ul>
-                    <li>基于半边实现的网格编辑器</li>
-                    <li>支持网格细分和 Garland 简化</li>
-                    <li>拥有 MIS 路径追踪器的完整实现</li>
-                </ul>
-            </Project>
-        </ThreeSep>
+        <Education />
 
         <Padding />
-        <Title>工作经历</Title>
-        <Padding pad="0.5" />
-        <TwoSep>
-            <Kingswell left />
-            <Starin right />
-        </TwoSep>
+        <Title>科研经历</Title>
+        <Padding pad="0.25" />
+        <div>
+            <Kingswell />
+            <Padding />
+            <Starin />
+            <!--<Padding />
+            <Project3 />-->
+        </div>
 
         <Padding />
-        <TwoSep>
-            <Education />
-            <Awards />
-        </TwoSep>
+        <Awards />
 
         <Padding />
         <Title>成果发表</Title>
-        <Padding pad="0.5" />
+        <Padding pad="0.25" />
         <Papers />
+
+        <Padding />
+        <Title>工作技能</Title>
+        <Padding pad="0.25" />
+        <ul>
+            <li></li>
+        </ul>
     </div>
 </div>
 
@@ -78,9 +58,11 @@
 <style>
     .viewport {
         max-width: 210mm;
+        min-height: 297mm;
         max-height: 297mm;
         border: 1px solid red;
         position: relative;
+        background-color: white;
     }
 
     .print-margin {
@@ -89,7 +71,11 @@
 
     ul {
         list-style: square;
-        padding-left: 10px;
+        padding-left: 13px;
+    }
+
+    li {
+        padding-top: 0.5em;
     }
 
     @page {

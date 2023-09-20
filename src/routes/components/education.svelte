@@ -10,16 +10,16 @@
     <div class="left">
         <div class="edu-table">
             <div class="edu-cell">
-                2021
+                2021-至今
             </div>
             <div class="edu-cell">
-                <strong>广州大学</strong> 计算机技术
+                <strong>广州大学</strong> 化学工程
             </div>
             <div class="edu-cell">
                 2017-2021
             </div>
             <div class="edu-cell">
-                <strong>东莞理工学院</strong> 计算机科学与技术
+                <strong>广州大学</strong> 化学工程与工艺
             </div>
         </div>
     </div>
@@ -32,10 +32,6 @@
         border-right: 1px solid #ccc;
         border-bottom: 1px solid #ccc;
         width: 300px;
-    }
-
-    .left {
-        border-right: 1px solid #aaa;
     }
 
     .edu-cell {

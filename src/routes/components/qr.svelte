@@ -1,5 +1,9 @@
+<script>
+    import qrImg from "$lib/res/peneqr.png";
+</script>
+
 <div class="qr-container">
-    <svg width="150" height="150" viewBox="-1 -1 27 27" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" shape-rendering="crispEdges" id="qr code"><rect id="qr background" fill-opacity="1" fill="rgb(255, 255, 255)" x="-1" y="-1" width="27" height="27" style="--darkreader-inline-fill: #181a1b;" data-darkreader-inline-fill=""></rect><path fill-opacity="1" fill="rgb(0, 0, 0)" id="qr dark pixels" fill-rule="evenodd" d="M 8 0 L 12 0 L 12 2 L 11 2 L 11 1 L 9 1 L 9 2 L 8 2 z M 14 0 L 15 0 L 15 2 L 14 2 L 14 3 L 15 3 L 15 5 L 14 5 L 14 6 L 13 6 L 13 7 L 12 7 L 12 5 L 11 5 L 11 3 L 13 3 L 13 1 L 14 1 z M 16 0 L 17 0 L 17 4 L 16 4 z M 9 2 L 10 2 L 10 3 L 9 3 z M 8 4 L 9 4 L 9 5 L 11 5 L 11 7 L 10 7 L 10 6 L 9 6 L 9 7 L 10 7 L 10 9 L 9 9 L 9 10 L 8 10 L 8 11 L 6 11 L 6 12 L 4 12 L 4 11 L 5 11 L 5 10 L 7 10 L 7 9 L 8 9 z M 16 5 L 17 5 L 17 7 L 16 7 z M 14 6 L 15 6 L 15 8 L 14 8 z M 0 8 L 3 8 L 3 9 L 0 9 z M 5 8 L 7 8 L 7 9 L 5 9 z M 11 8 L 13 8 L 13 9 L 14 9 L 14 10 L 13 10 L 13 12 L 11 12 L 11 14 L 10 14 L 10 13 L 9 13 L 9 12 L 10 12 L 10 11 L 9 11 L 9 10 L 11 10 L 11 11 L 12 11 L 12 9 L 11 9 z M 16 8 L 21 8 L 21 9 L 19 9 L 19 10 L 21 10 L 21 9 L 22 9 L 22 10 L 23 10 L 23 11 L 22 11 L 22 12 L 21 12 L 21 11 L 20 11 L 20 12 L 19 12 L 19 14 L 18 14 L 18 16 L 19 16 L 19 15 L 21 15 L 21 14 L 23 14 L 23 15 L 22 15 L 22 16 L 21 16 L 21 22 L 22 22 L 22 23 L 21 23 L 21 24 L 19 24 L 19 22 L 20 22 L 20 21 L 18 21 L 18 24 L 17 24 L 17 25 L 16 25 L 16 23 L 15 23 L 15 21 L 14 21 L 14 22 L 13 22 L 13 20 L 15 20 L 15 19 L 16 19 L 16 16 L 17 16 L 17 15 L 15 15 L 15 13 L 16 13 L 16 14 L 17 14 L 17 13 L 18 13 L 18 11 L 17 11 L 17 13 L 16 13 L 16 12 L 14 12 L 14 11 L 15 11 L 15 9 L 16 9 zM 17 17 L 20 17 L 20 20 L 17 20 z M 16 21 L 17 21 L 17 22 L 16 22 z M 23 8 L 25 8 L 25 11 L 24 11 L 24 10 L 23 10 z M 3 9 L 4 9 L 4 11 L 3 11 L 3 12 L 2 12 L 2 11 L 1 11 L 1 10 L 3 10 z M 0 11 L 1 11 L 1 13 L 0 13 z M 8 11 L 9 11 L 9 12 L 8 12 z M 3 12 L 4 12 L 4 13 L 3 13 z M 6 12 L 8 12 L 8 13 L 6 13 z M 24 12 L 25 12 L 25 15 L 24 15 L 24 14 L 23 14 L 23 13 L 24 13 z M 1 13 L 3 13 L 3 14 L 4 14 L 4 15 L 0 15 L 0 14 L 1 14 z M 4 13 L 6 13 L 6 14 L 7 14 L 7 15 L 6 15 L 6 16 L 8 16 L 8 17 L 5 17 L 5 16 L 4 16 L 4 15 L 5 15 L 5 14 L 4 14 z M 8 13 L 9 13 L 9 14 L 8 14 z M 13 13 L 14 13 L 14 14 L 13 14 z M 11 14 L 12 14 L 12 15 L 11 15 z M 8 15 L 10 15 L 10 17 L 9 17 L 9 16 L 8 16 z M 14 15 L 15 15 L 15 16 L 14 16 z M 0 16 L 2 16 L 2 17 L 0 17 z M 3 16 L 4 16 L 4 17 L 3 17 z M 11 16 L 13 16 L 13 17 L 14 17 L 14 19 L 13 19 L 13 20 L 11 20 L 11 19 L 12 19 L 12 17 L 11 17 z M 23 16 L 24 16 L 24 17 L 23 17 z M 8 17 L 9 17 L 9 18 L 8 18 z M 24 17 L 25 17 L 25 21 L 24 21 z M 18 18 L 19 18 L 19 19 L 18 19 z M 8 19 L 9 19 L 9 20 L 8 20 z M 10 20 L 11 20 L 11 22 L 12 22 L 12 23 L 11 23 L 11 24 L 13 24 L 13 23 L 14 23 L 14 25 L 10 25 z M 22 21 L 24 21 L 24 22 L 25 22 L 25 23 L 23 23 L 23 22 L 22 22 z M 8 22 L 9 22 L 9 25 L 8 25 z M 18 24 L 19 24 L 19 25 L 18 25 z M 21 24 L 22 24 L 22 25 L 21 25 z M 24 24 L 25 24 L 25 25 L 24 25 z" style="--darkreader-inline-fill: #000000;" data-darkreader-inline-fill=""></path><path id="qr squares" d="M0,0h7h0v0v7v0h0h-7h0v0v-7v0h0zM1,1h5h0v0v5v0h0h-5h0v0v-5v0h0zM2,2h3h0v0v3v0h0h-3h0v0v-3v0h0z M18,0h7h0v0v7v0h0h-7h0v0v-7v0h0zM19,1h5h0v0v5v0h0h-5h0v0v-5v0h0zM20,2h3h0v0v3v0h0h-3h0v0v-3v0h0z M0,18h7h0v0v7v0h0h-7h0v0v-7v0h0zM1,19h5h0v0v5v0h0h-5h0v0v-5v0h0zM2,20h3h0v0v3v0h0h-3h0v0v-3v0h0z" fill-rule="evenodd" fill-opacity="1" fill="rgb(0, 0, 0)" style="--darkreader-inline-fill: #000000;" data-darkreader-inline-fill=""></path></svg>
+    <img src={qrImg}>
 </div>
 
 <style>
@@ -9,7 +13,7 @@
         top: 1cm;
     }
 
-    .qr-container svg {
+    .qr-container img {
         width: 2cm;
         height: 2cm;
     }

@@ -12,15 +12,11 @@
     </div>
     <div class="flex-cell">
         <img src={emailImg}>
-        <div class="flex-text">hey@42yeah.is</div>
+        <div class="flex-text">wangyujie@42yeah.is</div>
     </div>
     <div class="flex-cell">
         <img src={callImg}>
-        <div class="flex-text">(+86) 13423211159</div>
-    </div>
-    <div class="flex-cell">
-        <img src={webImg}>
-        <div class="flex-text">blog.42yeah.is</div>
+        <div class="flex-text">(+86) 13922709177</div>
     </div>
 </div>
 
@@ -37,7 +33,7 @@
 
     .flex-table {
         display: grid;
-        grid-template-columns: 7cm auto;
+        grid-template-columns: 20% 30% 30%;
     }
 
     .flex-cell {

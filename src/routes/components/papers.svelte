@@ -1,23 +1,45 @@
+
 <div>
-    <div class="paper-container">
-        <div class="paper">
-            D. Hu, Z. Zhang, and H. Zhou, “Research on wind power Prediction based on BP neural Network,” in 2022 Second International Conference on Advances in Electrical, Computing, Communication and Sustainable Technologies (ICAECT), Apr. 2022, pp. 1–5. doi: 10.1109/ICAECT54875.2022.9807962.
-        </div>
-    </div>
-    <div class="paper">
-        Yang Y, Zhou H, Peng W, et al. Multi-task super resolution method for vector field critical points enhancement. Metaverse 2022; 3(1): 8 pages. doi: 10.54517/met.v3i1.2103
-    </div>
+    <ul>
+        <li class="paper">
+            <strong>Yujie Wang</strong>, Chengyun Wang, Huangwang Mai, Weizhen Fan, Haosen Fan, Wei Yang, Fengming Ren, and Shengzhou Chen, "Improving the Electrochemical Performance of NCM811 || SiO/Gr Pouch Cells by Interface Modification with Anhydride Electrolyte Additives",
+            ACS Applied Energy Materials 2023 6 (6), 3312-3320,
+            DOI: 10.1021/acsaem.2c03893
+        </li>
+
+        <li class="paper">
+            Chen Wen, Xingyi Feng, <strong>Yujie Wang</strong>, et al. "P2-Type Na0. 67fe0. 5mn0. 35co0. 15o2 Cathode Modified by an Active Coating Layer of K2na (Co (No2) 6) for Sodium Ion Batteries with Improved Cycling Stability." Available at SSRN 4459973.
+        </li>
+
+        <li class="paper">
+            杨伟, <strong>王昱杰</strong>, 方凯斌等. Co-Mn 比例调控对 LiNi_(0.8)Co_(0.10-y)Mn_(0.05+y)Al_(0.05)O_2 材料性能影响探究[J].化工学报,2022,73(12):5615-5624.
+        </li>
+
+        <li class="paper">
+            郑文芝, <strong>王昱杰</strong>, 杨伟等. 一种双功能锂离子电池电解液添加剂及锂离子电池[P]. 广东省：CN115692843A,2023-02-03.
+        </li>
+
+        <li class="paper">
+            杨伟, 庞晓贤, <strong>王昱杰</strong>等. 一种锂离子电池剩余使用寿命预测方法[P]. 广东省：CN115510612A,2022-12-23.
+        </li>
+    </ul>
 </div>
 
 <style>
-    .paper {
-        border-left: 2px solid #aaa;
-        padding-left: 0.3cm;
-        color: #777;
-        font-size: 10px;
+    ul {
+        list-style: square;
+        padding-left: 10px;
     }
 
-    .paper-container {
-        padding-bottom: 0.1cm;
+    li {
+        padding-top: 0.5em;
+    }
+
+    .paper:first-of-type {
+        padding-top: 0;
+    }
+
+    :global(mjx-container) {
+        display: inline;
     }
 </style>
