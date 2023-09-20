@@ -40,5 +40,6 @@
     .desc {
         display: flex;
         padding: 10px;
+        justify-content: center;
     }
 </style>
