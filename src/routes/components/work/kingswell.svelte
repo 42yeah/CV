@@ -6,16 +6,16 @@
 
 <div class="container">
     <div class="time-grid">
-        <div>2021-2022</div>
-        <div class="name"><strong>废旧动力电池镍钴锰三元正极材料再生利用关键技术研究项目</strong></div>
+        <div>2022.06 - 至今</div>
+        <div class="name"><strong>科研助理</strong>，广州理文科技有限公司</div>
     </div>
     <Padding pad="0.25" />
     <div class="{left ? 'left' : ''}">
-        <div class="resp">负责废旧动力电池镍钴锰三元正极材料再生利用方法的设计研发。</div>
+        <div class="resp">独立承担整个项目工作，负责锂离子电池的商业硅碳负极，主要对首效与循环问题进行改性。</div>
         <div class="contribs">
             <ul>
-                <li>对废旧三元正极材料进行预处理条件探究。</li>
-                <li>负责废旧三元正极材料再生工艺的条件设计及优化。</li>
+                <li>探究不同商业硅碳负极的合成条件、合成手段、碳源、硅源种类对硅碳负极性能的影响。</li>
+                <li>研发应用于锂离子电池的商业硅碳负极。 </li>
             </ul>
         </div>
     </div>

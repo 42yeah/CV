@@ -27,14 +27,10 @@
         <Education />
 
         <Padding />
-        <Title>科研经历</Title>
+        <Title>工作经历</Title>
         <Padding pad="0.25" />
         <div>
             <Kingswell />
-            <Padding />
-            <Starin />
-            <!--<Padding />
-            <Project3 />-->
         </div>
 
         <Padding />

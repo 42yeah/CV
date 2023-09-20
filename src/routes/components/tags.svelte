@@ -12,11 +12,11 @@
     </div>
     <div class="flex-cell">
         <img src={emailImg}>
-        <div class="flex-text">wangyujie@42yeah.is</div>
+        <div class="flex-text">Wenchen0425@163.com</div>
     </div>
     <div class="flex-cell">
         <img src={callImg}>
-        <div class="flex-text">(+86) 13922709177</div>
+        <div class="flex-text">(+86) 13760050718</div>
     </div>
 </div>
 
