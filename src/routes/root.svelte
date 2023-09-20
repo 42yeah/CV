@@ -15,10 +15,12 @@
     import Awards from "./components/awards.svelte";
     import Papers from "./components/papers.svelte";
     import QR from "./components/qr.svelte";
+    import Portrait from "./components/portrait.svelte";
 </script>
 
 <div class="viewport">
     <QR />
+    <Portrait />
     <div class="print-margin">
         <NameTag />
         <Padding pad="0.25" />
@@ -42,11 +44,15 @@
         <Papers />
 
         <Padding />
-        <Title>工作技能</Title>
+        <Title>专业技能</Title>
         <Padding pad="0.25" />
-        <ul>
-            <li></li>
-        </ul>
+        <GamerTags />
+        <!--<Padding />
+        <Title>自我评价</Title>
+        <Padding pad="0.25" />
+        <p>
+            本人从本科一年级至今投身于锂离子电池材料与钠离子电池材料的研究；工作积极认真，细心负责，熟练运用办公自动化软件，善于在工作中提出问题、发现问题、解决问题，有较强的分析能力；勤奋好学，踏实肯干，动手能力强，有很强的社会责任感；拥有强壮的体魄，注重劳逸结合。
+        </p>-->
     </div>
 </div>
 

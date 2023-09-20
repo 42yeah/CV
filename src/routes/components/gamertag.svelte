@@ -7,9 +7,6 @@
     <div class="name">
         {name}
     </div>
-    <div class="prof">
-        {prof}
-    </div>
 </div>
 
 <style>

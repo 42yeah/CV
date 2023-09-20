@@ -1,5 +1,5 @@
 <script>
-    import qrImg from "$lib/res/peneqr.png";
+    import qrImg from "$lib/res/wenqr.jpg";
 </script>
 
 <div class="qr-container">
@@ -9,7 +9,7 @@
 <style>
     .qr-container {
         position: absolute;
-        right: 1cm;
+        right: 4.2cm;
         top: 1cm;
     }
 

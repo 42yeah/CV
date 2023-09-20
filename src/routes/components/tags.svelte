@@ -3,6 +3,7 @@
     import callImg from "$lib/res/Call.svg";
     import emailImg from "$lib/res/EmailAddressViewer.svg";
     import webImg from "$lib/res/Web.svg";
+    import moneyImg from "$lib/res/Currency.svg";
 </script>
 
 <div class="flex-table">
@@ -17,6 +18,10 @@
     <div class="flex-cell">
         <img src={callImg}>
         <div class="flex-text">(+86) 13760050718</div>
+    </div>
+    <div class="flex-cell">
+        <img src={moneyImg}>
+        <div class="flex-text">研发工程师</div>
     </div>
 </div>
 
@@ -33,7 +38,7 @@
 
     .flex-table {
         display: grid;
-        grid-template-columns: 20% 30% 30%;
+        grid-template-columns: 30% auto;
     }
 
     .flex-cell {
