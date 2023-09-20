@@ -8,7 +8,7 @@
         </li>
 
         <li class="paper">
-            Chen Wen, Xingyi Feng, <strong>Yujie Wang</strong>, et al. "P2-Type Na0. 67fe0. 5mn0. 35co0. 15o2 Cathode Modified by an Active Coating Layer of K2na (Co (No2) 6) for Sodium Ion Batteries with Improved Cycling Stability." Available at SSRN 4459973.
+            Chen Wen, Xingyi Feng, <strong>Yujie Wang</strong>, et al. "P2-Type Na0. 67Fe0. 5Mn0. 35Co0. 15O2 Cathode Modified by an Active Coating Layer of K2Na (Co (NO2) 6) for Sodium Ion Batteries with Improved Cycling Stability." Available at SSRN 4459973.
         </li>
 
         <li class="paper">

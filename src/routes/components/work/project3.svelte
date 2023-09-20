@@ -7,16 +7,16 @@
 
 <div class="container {right ? 'right' : ''}">
     <div class="time-grid">
-        <div>2022-2023</div>
-        <div class="name"><strong>Dogshit</strong></div>
+        <div>2022 至今</div>
+        <div class="name"><strong>单晶高镍三元正极材料的制备及其电化学性能研究</strong></div>
     </div>
     <Padding pad="0.25" />
     <div class="{left ? 'left' : ''}">
-        <div class="resp">研究锂离子电池负极集流体结构性能及电化学性能测试方法及规范。</div>
+        <div class="resp">探究单晶高镍三元正极材料的晶体性质对于设计和开发高性能锂离子正极材料的影响。</div>
         <div class="contribs">
             <ul>
-                <li>负责对集流体进行微观结构表征。</li>
-                <li>测试集流体纵向和横向拉伸长度及极片材料剥离强度。</li>
+                <li>通过水热法、共沉淀法、溶胶凝胶法等合成单晶高镍三元正极材料。</li>
+                <li>对比多种工艺下制备出的单晶高镍三元正极材料的形貌与电化学性能。</li>
             </ul>
         </div>
     </div>

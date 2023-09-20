@@ -3,17 +3,23 @@
 </script>
 
 <div class="tag-container">
-    <GamerTag name="C++" prof="熟练" />
-    <GamerTag name="OpenGL" prof="熟练" />
-    <GamerTag name="Python" prof="熟练" />
-    <GamerTag name="JavaScript" prof="熟练" />
-    <GamerTag name="CUDA" prof="熟悉" />
-    <GamerTag name="Vulkan" prof="熟悉" />
-    <GamerTag name="Eigen" prof="熟悉" />
-    <GamerTag name="Lua" prof="熟悉" />
-    <GamerTag name="Metal" prof="了解" />
-    <GamerTag name="DirectX" prof="了解" />
-    <GamerTag name="雅思" prof="8 分" />
+    <GamerTag name="XRD" prof="熟练" />
+    <GamerTag name="SEM" prof="熟练" />
+    <GamerTag name="TEM" prof="熟练" />
+    <GamerTag name="XPS" prof="熟练" />
+    <GamerTag name="Raman" prof="熟练" />
+    <GamerTag name="FT-IR" prof="熟练" />
+    <GamerTag name="BET" prof="熟练" />
+    <GamerTag name="EDS" prof="熟练" />
+    <GamerTag name="ICP" prof="熟练" />
+    <GamerTag name="CV" prof="熟练" />
+    <GamerTag name="EIS" prof="熟练" />
+    <GamerTag name="GITT" prof="熟练" />
+    <GamerTag name="LSV" prof="熟练" />
+    <GamerTag name="Origin" prof="熟练" />
+    <GamerTag name="ChemDraw" prof="熟练" />
+    <GamerTag name="Blender" prof="熟练" />
+    <GamerTag name="CAD" prof="熟练" />
 </div>
 
 <style>

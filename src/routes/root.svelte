@@ -31,10 +31,10 @@
         <Padding pad="0.25" />
         <div>
             <Kingswell />
-            <Padding />
+            <Padding pad="0.5" />
             <Starin />
-            <!--<Padding />
-            <Project3 />-->
+            <Padding pad="0.5" />
+            <Project3 />
         </div>
 
         <Padding />
@@ -46,11 +46,9 @@
         <Papers />
 
         <Padding />
-        <Title>工作技能</Title>
+        <Title>专业技能</Title>
         <Padding pad="0.25" />
-        <ul>
-            <li></li>
-        </ul>
+        <GamerTags />
     </div>
 </div>
 
