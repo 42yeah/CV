@@ -15,10 +15,12 @@
     import Awards from "./components/awards.svelte";
     import Papers from "./components/papers.svelte";
     import QR from "./components/qr.svelte";
+    import Portrait from "./components/portrait.svelte";
 </script>
 
 <div class="viewport">
     <QR />
+    <Portrait />
     <div class="print-margin">
         <NameTag />
         <Padding pad="0.25" />

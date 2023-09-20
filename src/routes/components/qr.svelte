@@ -10,11 +10,11 @@
     .qr-container {
         position: absolute;
         right: 1cm;
-        top: 1cm;
+        top: 5.2cm;
     }
 
     .qr-container img {
-        width: 2cm;
-        height: 2cm;
+        width: 3cm;
+        height: 3cm;
     }
 </style>
