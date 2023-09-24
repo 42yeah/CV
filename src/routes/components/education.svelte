@@ -10,7 +10,7 @@
     <div class="left">
         <div class="edu-table">
             <div class="edu-cell">
-                2021-至今
+                2021 至今
             </div>
             <div class="edu-cell">
                 <strong>广州大学</strong> 化学工程

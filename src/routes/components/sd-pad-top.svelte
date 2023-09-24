@@ -2,7 +2,7 @@
     export let pad = "1.0";
 </script>
 
-<div style="padding-top: {`${pad * 0.45}cm`}" class="padding-block">
+<div style="padding-top: {`${pad * 0.35}cm`}" class="padding-block">
 
 </div>
 
