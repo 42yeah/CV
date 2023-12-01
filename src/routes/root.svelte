@@ -9,7 +9,7 @@
     import Project from "./components/project.svelte";
     import TwoSep from "./components/twosep.svelte";
     import Kingswell from "./components/work/kingswell.svelte";
-    import Project3 from "./components/work/project3.svelte";
+    import Academia from "./components/work/academia.svelte";
     import Starin from "./components/work/starin.svelte";
     import Education from "./components/education.svelte";
     import Awards from "./components/awards.svelte";
@@ -33,6 +33,13 @@
         <Padding pad="0.25" />
         <div>
             <Kingswell />
+        </div>
+
+        <Padding />
+        <Title>科研经历</Title>
+        <Padding pad="0.25" />
+        <div>
+            <Academia />
         </div>
 
         <Padding />
@@ -69,6 +76,7 @@
 
     .print-margin {
         padding: 1cm;
+        padding-bottom: 0;
     }
 
     ul {
