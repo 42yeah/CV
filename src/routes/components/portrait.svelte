@@ -16,6 +16,7 @@
     .portrait-container div {
         width: 3cm;
         height: 4cm;
+        background-position: center;
         background-size: cover;
     }
 </style>
