@@ -41,4 +41,8 @@
         padding-right: 0.5cm;
     }
 
+    .name {
+        font-family: "Source Hans Sans";
+    }
+
 </style>
