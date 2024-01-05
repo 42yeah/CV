@@ -75,6 +75,7 @@
 
     .print-margin {
         padding: 1cm;
+        padding-bottom: 0;
     }
 
     ul {
