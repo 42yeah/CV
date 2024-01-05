@@ -10,6 +10,7 @@
     import TwoSep from "./components/twosep.svelte";
     import Kingswell from "./components/work/kingswell.svelte";
     import Project3 from "./components/work/project3.svelte";
+    import GAC from "./components/work/gac.svelte";
     import Starin from "./components/work/starin.svelte";
     import Education from "./components/education.svelte";
     import Awards from "./components/awards.svelte";
@@ -32,11 +33,13 @@
         <Title>科研经历</Title>
         <Padding pad="0.25" />
         <div>
-            <Kingswell />
+            <GAC />
+            <Padding pad="0.5" />
+            <Project3 />
             <Padding pad="0.5" />
             <Starin />
             <Padding pad="0.5" />
-            <Project3 />
+            <Kingswell />
         </div>
 
         <Padding />

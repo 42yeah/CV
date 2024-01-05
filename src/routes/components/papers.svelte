@@ -7,9 +7,9 @@
             DOI: 10.1021/acsaem.2c03893
         </li>
 
-        <li class="paper">
+        <!--<li class="paper">
             Chen Wen, Xingyi Feng, <strong>Yujie Wang</strong>, et al. "P2-Type Na0. 67Fe0. 5Mn0. 35Co0. 15O2 Cathode Modified by an Active Coating Layer of K2Na (Co (NO2) 6) for Sodium Ion Batteries with Improved Cycling Stability." Available at SSRN 4459973.
-        </li>
+        </li>-->
 
         <li class="paper">
             杨伟, <strong>王昱杰</strong>, 方凯斌等. Co-Mn 比例调控对 LiNi_(0.8)Co_(0.10-y)Mn_(0.05+y)Al_(0.05)O_2 材料性能影响探究[J].化工学报,2022,73(12):5615-5624.

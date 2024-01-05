@@ -6,8 +6,8 @@
 
 <div class="container">
     <div class="time-grid">
-        <div>2021-2022</div>
-        <div class="name"><strong>废旧动力电池镍钴锰三元正极材料再生利用关键技术研究项目，中国轻工业广州工程有限公司</strong></div>
+        <div>2023 至今</div>
+        <div class="name"><strong>电池参数获取方法研究，广汽研究院</strong></div>
     </div>
     <Padding pad="0.25" />
     <div class="{left ? 'left' : ''}">
@@ -41,7 +41,4 @@
         padding-right: 0.5cm;
     }
 
-    .name {
-        font-family: "Source Hans Sans";
-    }
 </style>
