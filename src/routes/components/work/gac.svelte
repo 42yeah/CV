@@ -9,7 +9,6 @@
         <div>2023 至今</div>
         <div class="name"><strong>电池参数获取方法研究，广州汽车集团股份有限公司</strong></div>
     </div>
-    <Padding pad="0.25" />
     <div class="{left ? 'left' : ''}">
         <div class="resp">负责和广汽研究院对接，统筹整个项目的管理和推进。</div>
         <div class="contribs">
@@ -25,6 +24,7 @@
     .time-grid {
         display: grid;
         grid-template-columns: 15% auto;
+        padding-bottom: 0.5em;
     }
 
     ul {

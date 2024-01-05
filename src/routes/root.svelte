@@ -26,10 +26,10 @@
         <NameTag />
         <Padding pad="0.25" />
         <Tags />
-        <Padding />
+        <Padding pad="0.75" />
         <Education />
 
-        <Padding />
+        <Padding pad="0.75" />
         <Title>项目经历</Title>
         <Padding pad="0.5" />
         <div>
@@ -40,22 +40,22 @@
             <Kingswell />
         </div>
 
-        <Padding />
+        <Padding pad="0.75" />
         <Title>科研经历</Title>
         <Padding pad="0.5" />
         <div>
             <Project3 />
         </div>
 
-        <Padding />
+        <Padding pad="0.75" />
         <Awards />
 
-        <Padding />
+        <Padding pad="0.75" />
         <Title>成果发表</Title>
         <Padding pad="0.5" />
         <Papers />
 
-        <!--<Padding />
+        <!--<Padding pad="0.75" />
         <Title>专业技能</Title>
         <Padding pad="0.25" />
         <GamerTags />-->

@@ -12,11 +12,11 @@
     </div>
     <Padding pad="0.25" />
     <div class="{left ? 'left' : ''}">
-        <div class="resp">探究单晶高镍三元正极材料的晶体性质对于设计和开发高性能锂离子正极材料的影响。</div>
+        <div class="resp">探究单晶高镍三元正极材料的制备过程对于设计和开发高性能锂离子正极材料的影响。</div>
         <div class="contribs">
             <ul>
-                <li>通过水热法、共沉淀法、溶胶凝胶法等合成单晶高镍三元正极材料。</li>
-                <li>对比多种工艺下制备出的单晶高镍三元正极材料的形貌与电化学性能。</li>
+                <li>利用水热、共沉淀和溶胶凝胶法合成单晶高镍三元正极材料，探究其形貌与电化学性能。</li>
+                <li>通过烧结过程后对单晶高镍三元正极材料进行晶体形貌表征，深入研究其晶体成型条件。</li>
             </ul>
         </div>
     </div>
@@ -26,6 +26,7 @@
     .time-grid {
         display: grid;
         grid-template-columns: 15% auto;
+        padding-bottom: 0.5em;
     }
 
     ul {

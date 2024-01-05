@@ -27,6 +27,7 @@
     .time-grid {
         display: grid;
         grid-template-columns: 15% auto;
+        padding-bottom: 0.5em;
     }
 
     ul {
