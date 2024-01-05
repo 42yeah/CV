@@ -30,16 +30,21 @@
         <Education />
 
         <Padding />
-        <Title>科研经历</Title>
-        <Padding pad="0.25" />
+        <Title>项目经历</Title>
+        <Padding pad="0.5" />
         <div>
             <GAC />
-            <Padding pad="0.5" />
-            <Project3 />
-            <Padding pad="0.5" />
+            <Padding pad="0.8" />
             <Starin />
-            <Padding pad="0.5" />
+            <Padding pad="0.8" />
             <Kingswell />
+        </div>
+
+        <Padding />
+        <Title>科研经历</Title>
+        <Padding pad="0.5" />
+        <div>
+            <Project3 />
         </div>
 
         <Padding />
@@ -47,13 +52,13 @@
 
         <Padding />
         <Title>成果发表</Title>
-        <Padding pad="0.25" />
+        <Padding pad="0.5" />
         <Papers />
 
-        <Padding />
+        <!--<Padding />
         <Title>专业技能</Title>
         <Padding pad="0.25" />
-        <GamerTags />
+        <GamerTags />-->
     </div>
 </div>
 

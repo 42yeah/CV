@@ -7,15 +7,15 @@
 <div class="container">
     <div class="time-grid">
         <div>2023 至今</div>
-        <div class="name"><strong>电池参数获取方法研究，广汽研究院</strong></div>
+        <div class="name"><strong>电池参数获取方法研究，广州汽车集团股份有限公司</strong></div>
     </div>
     <Padding pad="0.25" />
     <div class="{left ? 'left' : ''}">
-        <div class="resp">负责废旧动力电池镍钴锰三元正极材料再生利用方法的设计研发。</div>
+        <div class="resp">负责和广汽研究院对接，统筹整个项目的管理和推进。</div>
         <div class="contribs">
             <ul>
-                <li>对废旧三元正极材料进行预处理条件探究。</li>
-                <li>负责废旧三元正极材料再生工艺的条件设计及优化。</li>
+                <li>负责建立电池参数的获取方法和测试数据的处理方法，并对参数结果进行一致性分析。</li>
+                <li>与广汽研究院进行沟通和协调，为对方提供必要的技术咨询及支持。</li>
             </ul>
         </div>
     </div>

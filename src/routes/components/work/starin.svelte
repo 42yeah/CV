@@ -8,7 +8,7 @@
 <div class="container {right ? 'right' : ''}">
     <div class="time-grid">
         <div>2022-2023</div>
-        <div class="name"><strong>负极集流体综合性能测试规范开发</strong></div>
+        <div class="name"><strong>负极集流体综合性能测试规范开发，鼎华晟新材料科技有限公司</strong></div>
     </div>
     <Padding pad="0.25" />
     <div class="{left ? 'left' : ''}">

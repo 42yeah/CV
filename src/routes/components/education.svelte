@@ -5,7 +5,7 @@
 
 <div>
     <Title>教育经历</Title>
-    <Padding pad="0.25" />
+    <Padding pad="0.5" />
 
     <div class="left">
         <div class="edu-table">
